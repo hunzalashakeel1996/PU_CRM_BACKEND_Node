@@ -27,13 +27,13 @@ require('dotenv').config();
 
 module.exports = {
   db_server: '74.208.31.179',
-  db_user: 'crm_user',
+  db_user: 'localhost',
   db_password: '#fO8^u9Ib*zj',
   db_database: 'pu_crm',
   db_timezone: 'GMT+00:00',
   db_port: '2421',
   db_server_VI: '74.208.31.179',
-  db_user_VI: 'sa',
+  db_user_VI: 'localhost',
   db_password_VI: 'c7v33!CCI@',
   db_database_VI: 'Vendor_Inventory',
   db_timezone_VI: 'GMT+00:00',
